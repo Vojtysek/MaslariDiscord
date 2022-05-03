@@ -1,2 +1,0 @@
-# MaslariDiscord
-Scraped hours etc.
